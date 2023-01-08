@@ -49,6 +49,7 @@ h3 {
 
 p {
     color: var(--primary-soft-blue);
+    font-size: 14;
 }
 
 .text-cyan {
