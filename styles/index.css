@@ -60,6 +60,7 @@ p {
     max-width: 20rem;
     padding: 2rem;
     background-color: var(--card-color);
+	border-radius: 10px;
 }
 
 .card > img {
